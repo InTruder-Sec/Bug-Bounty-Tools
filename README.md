@@ -1,5 +1,6 @@
 # Bug-Bounty-Tools
-CYBERxLEO || My Personal Favourite Bug Bounty Hunting Tools. 
+
+CYBERxLEO || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/CYBERxLEO/Bug-Bounty-Tools/blob/main/README.TXT).
 
 
 
