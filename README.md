@@ -1,6 +1,6 @@
 # Bug-Bounty-Tools
 
-CYBERxLEO || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/CYBERxLEO/Bug-Bounty-Tools/blob/main/README.TXT).
+CYBERxLEO || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/CYBERxLEO/Bug-Bounty-Tools/blob/main/Tools.txt).
 
 
 
@@ -23,4 +23,4 @@ HACKERONE ACCOUNT:- [CYBERxLEO](https://hackerone.com/cyberxleo?type=user)
 
 -------------------------------------------------------------------------
 
-YOU CAN ACCESS MY BUG BOUNTY TOOLS [HERE](https://github.com/CYBERxLEO/Bug-Bounty-Tools/blob/main/README.TXT)
+YOU CAN ACCESS MY BUG BOUNTY TOOLS [HERE](https://github.com/CYBERxLEO/Bug-Bounty-Tools/blob/main/Tools.txt)
