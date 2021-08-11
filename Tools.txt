@@ -38,7 +38,9 @@
 |                | directories and files  |
 +----------------+------------------------+
 |                |                        |
-| finddomain     | Sub-domain enumerator. |
+| bash script    | Self made bash script  |
+|                | for subdomain using    |
+|                | host command.          |
 +----------------+------------------------+
 |                |                        |
 | web.archive.org| For information        |
@@ -82,6 +84,10 @@
 |                |                        |
 | Masscan        | Port scanner tool      |
 +----------------+------------------------+
+|                |                        |
+| Nikto          | Excellent web app      |
+|                | vulnerability scanner. |
++-----------------------------------------+
 
 
 ##ANDROID HACKING
