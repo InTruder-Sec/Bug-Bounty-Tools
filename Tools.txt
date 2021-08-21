@@ -53,7 +53,9 @@
 | crt.sh         | SSL Certificate search |
 |                |           tool.        |
 +----------------+------------------------+
-
+| Wfuzz          | For brute forcing      |                     
+|                | directories.           |
++----------------+------------------------+
 
 ##EXPLOITATION
 
