@@ -31,7 +31,7 @@
 |                | directories.           |
 +----------------+------------------------+
 |                |                        |
-| subli3r        | Sub-domain enumerator. |
+| sublist3r        | Sub-domain enumerator. |
 +----------------+------------------------+
 |                |                        |
 | dirsearch      | Brute forcing          |
@@ -71,7 +71,10 @@
 | XSStrike       | Automate exploitation  |
 |                |      of XSS.           |
 +----------------+------------------------+
-
+|                |                        |
+| CNAME-Lookup   | Bash script made by me,|
+|                | for subdomain takeover |
++-----------------------------------------+
 
 ##SCANNERS
 
