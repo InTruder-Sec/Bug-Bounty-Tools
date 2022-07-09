@@ -68,3 +68,5 @@ InTruder || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/
 | Android  studio | For android applications |
 | Visual studio code | For coding and code analysis |
 
+More tools will be added to soon!!!
+
