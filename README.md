@@ -1,30 +1,38 @@
-# Bug-Bounty-Tools
-
-InTruder || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/CYBERxLEO/Bug-Bounty-Tools/blob/main/Tools.txt).
-
+## *BUG BOUNTY HUNTING TOOLS*
+<hr>
 
 ## PROXY AND NETWORK SNIFFER
 
 
 | TOOLS | DISCRIPTION |
 | ----- | ----------- |
-| Burp Suite | Proxy to intercept and  maniplating web traffic You can use community version(free) or proffessional version(paid). |
+| Burp Suite | Proxy for intercepting and  manipulating web traffic You can use community version(free) or proffessional version(paid). |
 | Wireshark | For analyzing network protocols. |
+| OWASP ZAP | Proxy for intercepting and manipulating web traffic. |
 
 
 ## RECONISSANS & OSINT
 
-
 | TOOLS | DISCRIPTION |
 | ----- | ----------- |
+| Whois | WHOIS looks for the owner of a domain or IP |
+| nslookup | It queries internet name servers for IP information about host. |
 | FFUF  | For Brute forcing directories. |
 | sublist3r | Sub-domain enumerator. |
-| dirsearch | Brute forcing directories and files |
-| bash script | Self made bash script for subdomain using host command. |
-| web.archive.org | For information gathering. |
+| Gobuster | For enumerating Sub-domains |
+| Altdns | Bruteforces subdomains |
+| Dirsearch | Directory bruteforcers for hidden file paths |
 | dnsdumpster | Finding WAF and Sub-domain enumeration |
 | crt.sh | SSL Certificate search tool. |
 | Wfuzz | For brute forcing directories. |
+| Lazys3 | Brute force buckets by using keywords |
+| GHDB | Usefull Google search terms that frequently reveal vulnerable or sensitive files |
+| WayBack Machinr | For finding old versions of site |
+| TruffleHog | Specializes in finding secrets in public GitHub |
+| Gitrob | Finds potential sensitive files that are pushed to public repositaries|
+| Wapalyzer | To identfy frameworks, prgramming languages |
+| Retire.js | Deteccts outdated Javascript libraries and Node,js packages |
+
 
 ## EXPLOITATION
 
@@ -43,17 +51,7 @@ InTruder || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/
 | Nikto | Excellent web app vulnerability scanner. |
 
 
-## ANDROID HACKING
-
-
-| TOOLS | DISCRIPTION |
-| ----- | ----------- |
-| JDAX | dex to java compiler. |
-| dex2jar | Convert dex file to jar file to decompile app. |
-| javadecompiler | decompiling app online.|
-
 ## WORDLISTS & HOOKUP TOOLS
-
 
 | TOOLS | DISCRIPTION |
 | ----- | ----------- |
@@ -68,5 +66,5 @@ InTruder || My Personal Favourite [Bug Bounty Hunting Tools](https://github.com/
 | Android  studio | For android applications |
 | Visual studio code | For coding and code analysis |
 
-More tools will be added to soon!!!
+
 
